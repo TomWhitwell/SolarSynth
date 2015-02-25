@@ -3424,8 +3424,8 @@ Source: Panasonic</description>
 <part name="IC1" library="74xx-eu" deviceset="74*14" device="N" technology="HCT"/>
 <part name="BAT1" library="SparkFun-Electromechanical" deviceset="BATTERY" device="9V"/>
 <part name="R1" library="TomW" deviceset="ALPHA-9MM" device="A" technology="F2" value="STARVE"/>
-<part name="R2" library="TomW" deviceset="R-EU_" device="0207/7"/>
-<part name="U$1" library="gm-caps-electro-pol" deviceset="080-EU" device=""/>
+<part name="R2" library="TomW" deviceset="R-EU_" device="0207/7" value="1k"/>
+<part name="U$1" library="gm-caps-electro-pol" deviceset="080-EU" device="" value="2.2u"/>
 <part name="R3" library="TomW" deviceset="R-EU_" device="0207/7"/>
 <part name="R4" library="TomW" deviceset="R-EU_" device="0207/7"/>
 <part name="U$2" library="gm-caps-electro-pol" deviceset="080-EU" device=""/>
